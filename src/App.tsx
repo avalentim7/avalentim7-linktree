@@ -72,7 +72,7 @@ function App() {
           })}
         </div>
       </div>
-      <div className="mb-4 text-xs text-gray-600">@ 2025</div>
+      <div className="mb-4 text-xs text-gray-600">@2025</div>
     </div>
   );
 }
