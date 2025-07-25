@@ -5,6 +5,7 @@ import aspectRatioPlugin from '@tailwindcss/aspect-ratio'
 
 export default {
   darkMode: ['class'],
+  base: '/avalentim7-linktree',
   content: [
     './pages/**/*.{ts,tsx}',
     './components/**/*.{ts,tsx}',
